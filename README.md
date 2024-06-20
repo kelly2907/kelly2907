@@ -1,4 +1,4 @@
-- 👋 Boas vindas ao meu perfil
+- 👋 Bem vindo ao meu perfil
 - 💙 Meu nome é Kelly Silva 
 - 👀 Estou estudando na Alura
 - 🌱 Estou me desenvolvendo na linguagem JavaScript
